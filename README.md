@@ -1,5 +1,5 @@
 # Practica-empresa
-COMANDOS
+v02
 quintando conflicto
 Clonar Repositorio
 1.git clone(el link del repositorio que se desea clonar)
