@@ -1,6 +1,9 @@
 # Practica-empresa
 v02
-quintando conflicto
+
+MIS CAMBIOS
+EN LA VERSION DE ARRIBA
+
 Clonar Repositorio
 1.git clone(el link del repositorio que se desea clonar)
 git clone url_del_servidor_remoto
