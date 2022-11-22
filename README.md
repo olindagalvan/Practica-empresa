@@ -1,5 +1,5 @@
 # Practica-empresa
-v02
+version v0.2
 
 MIS CAMBIOS
 EN LA VERSION DE ARRIBA
