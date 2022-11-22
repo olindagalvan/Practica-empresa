@@ -1,5 +1,6 @@
 # Practica-empresa
 COMANDOS
+quintando conflicto
 Clonar Repositorio
 1.git clone(el link del repositorio que se desea clonar)
 git clone url_del_servidor_remoto
